@@ -1,0 +1,5 @@
+project.lock.json
+Common.xproj.user
+Common/.vs/
+Common/bin/
+Common/obj/
